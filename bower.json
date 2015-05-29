@@ -1,0 +1,19 @@
+{
+    "name": "flot-touch",
+    "description": "A plugin for the Flot charting library for adding multi-touch gesture support for panning and zooming.",
+    "version": "1.0.0",
+    "keywords": [
+        "js",
+        "flot",
+        "plugin",
+        "touch",
+        "mobile"
+    ],
+    "homepage": "http://justindarc.github.io/flot.touch/",
+    "main": [
+        "jquery.flot.touch.js"
+    ],
+    "dependencies": {
+        "flot": ">= 0.7.0"
+    }
+}
